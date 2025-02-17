@@ -1,11 +1,8 @@
-# Node.js and Express Hosted on Microsoft Azure Template
+# Node.js  Hosted on Microsoft Azure Template
 
-Dependencies: Node.js and Express
+Dependencies: Node.js
 
-This repository is a template that can be used to create a Node.js and Express website for hosting on Microsoft Azure.
+Web Resume Project - to have resume pdf on a website
 
-Initial Usage:
-- npm install express
-- npm start
-
+This site was references to embed the PDF: https://www.geeksforgeeks.org/how-to-embed-pdf-file-using-html/
 
