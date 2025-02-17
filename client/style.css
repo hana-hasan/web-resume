@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+}
+
+.wrapper
+{
+    margin: auto;
+    padding: 20px;
+}
+
+h2
+{
+    text-decoration: underline;
+}
+
+.pdf {
+    width: 100%;
+    aspect-ratio: 4 / 3;
+}
+.pdf,
